@@ -3,3 +3,5 @@ obj
 !obj/makefile
 *.launch
 *.wvproj
+*.d
+*.o

@@ -1,0 +1,5 @@
+.settings
+obj
+!obj/makefile
+*.launch
+*.wvproj
